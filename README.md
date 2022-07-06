@@ -4,7 +4,7 @@ The spiritual successor of the Money Call website on my Github repo. Built with 
 
 ## Features
 
-[!Money Call Presentation](https://user-images.githubusercontent.com/45358944/177528305-2117d8f6-9e05-4a10-baa2-bce1fe225f51.png)
+![Money Call Presentation](https://github.com/Edu09campos/money_call_mobile/blob/main/money_call_mob_pres.png)
 
 - Track your expenses and gains
 - See meaningfull graph of your transactions by category
